@@ -1,6 +1,6 @@
 ---
-permalink: /contact
-title: "Marta M. Faulkner - Contact"
+permalink: /contact/
+title: "Contact"
 excerpt: "Contact"
 author_profile: true
 
