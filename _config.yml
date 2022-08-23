@@ -83,11 +83,13 @@ author:
   name             : "Marta M. Faulkner (she/her)"
   avatar           : "small_headshot.JPG"
   bio              : "PhD student in Atmospheric and Oceanic Sciences, Princeton University; focus on Arctic physical oceanography"
-  location         : "Princeton, NJ"
+  email-address    : "Email: mmfaulkner [at] princeton.edu"
+  github-handle    : "Github: mmfaulkner"
+  location         :
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "mmfaulkner@princeton.edu"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mmfaulkner"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
