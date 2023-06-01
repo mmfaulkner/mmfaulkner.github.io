@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Princeton University's [Atmospheric and Oceanic Sciences program](https://aos.princeton.edu/). I am interested in Arctic Ocean physical oceanography, particularly western Arctic halocline dynamics and sea ice. I started my PhD in September 2021 and expect to finish in spring of 2027. In addition to my research, I hope to use my time at Princeton to learn how to teach in a way that not only effectively communicates topics, but also promotes an inclusive and supportive community and inspires students to love math and climate science.
+I am a PhD student in the [MIT-WHOI Joint Program](https://mit.whoi.edu/) where I study physical oceanography with my advisors [Dr. Michael Spall](https://www2.whoi.edu/staff/mspall/) and [Dr. Isabela Le Bras](https://ilebras.github.io/). My research focuses on Arctic Ocean physical oceanography—particularly the dynamics of the Beaufort Gyre in the Arctic's Canadian Basin—but I also have interests in sea ice, glacier-ocean interactions, and the watery and icy goings-on at our other pole.
