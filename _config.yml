@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marta M. Faulkner"
 title_separator          : "-"
 name                     : &name "Marta Faulkner"
-description              : &description "PhD Student at Princeton University"
+description              : &description "PhD Student at MIT-WHOI"
 url                      : https://mmfaulkner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmfaulkner.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Marta M. Faulkner (she/her)"
   avatar           : "small_headshot.JPG"
-  bio              : "PhD student in Atmospheric and Oceanic Sciences, Princeton University; focus on Arctic physical oceanography"
-  email-address    : "Email: mmfaulkner [at] princeton.edu"
+  bio              : "PhD student in Physical Oceanography at WHOI-MIT"
+  email-address    : "Email: mfaulkner [at] whoi.edu"
   github-handle    : "Github: mmfaulkner"
   location         :
   employer         :
