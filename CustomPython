@@ -1,0 +1,14 @@
+To create a directory with your custom python functions, go to your home directory:
+cd ~
+mkdir custom_python
+Now give python access to your custom function directory. From your home directory, open your (hidden) .zprofile or .profile file and add a line
+export PYTHONPATH=<home directory>/custom_python
+It's important that your spaces match the above.
+Now activate these changes to your profile with
+source ~/.zprofile
+Now python can access your custom function directory. Let's add a custom function. Go back to your custom_python directory and create a file called test.py. Add a function to your test script, e.g.:
+def hello():
+  print('hello!')
+Now go to some other directory, enter python, and try importing and calling your new function:
+from test import hello
+hello()
