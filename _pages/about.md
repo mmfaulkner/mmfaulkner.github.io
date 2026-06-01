@@ -17,7 +17,7 @@ Click the tabs above learn more about my current research.
 
   </div>
   <div style="flex: 0 0 40%;">
-    <img src="/assets/images/Arctic_morelabels.png" alt="ArcticMap">
+    <img src="assets/images/Arctic_morelabels.png" alt="ArcticMap">
     <figcaption>A map of major Arctic surface circulation features. Modified from USGS.</figcaption>
   </div>
 </div>
