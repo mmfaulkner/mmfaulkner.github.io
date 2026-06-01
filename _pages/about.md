@@ -16,7 +16,7 @@ redirect_from:
 <p>Click the tabs above to learn more about my current research.</p>
 
   </div>
-  <div style="flex: 0 0 40%;">
+  <div style="flex: 0 0 55%;">
     <img src="/images/icebergs_jokulsarlon.jpeg" alt="Icebergs">
     <figcaption>Icebergs in southern Iceland's Jökulsárón glacial lagoon.</figcaption>
   </div>
