@@ -14,6 +14,6 @@ To be updated...
   </div>
   <div style="flex: 0 0 40%;">
     <img src="/images/AW_metrics.png" alt="Beaufort Sea temperature profile">
-    <figcaption>Smoothed mean temperature profile from <a href="https://www2.whoi.edu/site/beaufortgyre/" target="_blank">Beaufort Gyre Observing System</a> measurements. Atlantic Water is visible as anomalously warm subsurface water.</figcaption>
+    <figcaption>Smoothed mean temperature profile from <a href="https://www2.whoi.edu/site/beaufortgyre/" target="_blank" title="https://www2.whoi.edu/site/beaufortgyre/">Beaufort Gyre Observing System</a> measurements. Atlantic Water is visible as anomalously warm subsurface water.</figcaption>
   </div>
 </div>
