@@ -13,7 +13,7 @@ redirect_from:
 
 I am a PhD student in the <a href="https://mit.whoi.edu/">MIT-WHOI Joint Program</a> where I study physical oceanography with my advisors <a href="https://www2.whoi.edu/staff/mspall/">Dr. Michael Spall</a> and <a href="https://ilebras.github.io/">Dr. Isabela Le Bras</a>. My research focuses on large-scale Arctic Ocean physical oceanography—particularly the dynamics of the Beaufort Gyre in the Arctic's Canadian Basin—but I also have interests in sea ice, glacier-ocean interactions, and Antarctic physical oceanography.
 
-Click the tabs above learn more about my current research.
+\nClick the tabs above to learn more about my current research.
 
   </div>
   <div style="flex: 0 0 40%;">
