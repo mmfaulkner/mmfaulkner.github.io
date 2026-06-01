@@ -1,8 +1,5 @@
-/* Custom figure and caption styling */
-figcaption {
-  text-align: center;
-  font-size: 0.85em;
-  color: #666;
-  font-style: italic;
-  margin-top: 8px;
+/* Increase content width */
+.page__inner-wrap {
+  max-width: 100% !important;
+  width: 100%;
 }
