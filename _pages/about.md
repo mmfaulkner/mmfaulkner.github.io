@@ -17,7 +17,7 @@ Click the tabs above learn more about my current research.
 
   </div>
   <div style="flex: 0 0 40%;">
-    <img src="/images/icebergs_jokulsarlon.png" alt="Icebergs">
+    <img src="/images/icebergs_jokulsarlon.jpeg" alt="Icebergs">
     <figcaption>Icebergs in southern Iceland's Jökulsárón glacial lagoon.</figcaption>
   </div>
 </div>
