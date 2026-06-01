@@ -1,10 +1,5 @@
 /* Increase content width */
-
-.page__inner-wrap {
+.custom-flex {
+  width: 100% !important;
   max-width: 100% !important;
-  width: 100%;
-}
-
-.page__content {
-  max-width: none !important;
 }
