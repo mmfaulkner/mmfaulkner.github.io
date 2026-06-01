@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "small_headshot.JPG"
   bio              : "PhD student in Physical Oceanography at WHOI-MIT"
   email-address    : "Email: mfaulkner [at] whoi.edu"
-  github-handle    : "Github: mmfaulkner"
+  github-handle    : #"Github: mmfaulkner"
   location         :
   employer         :
   pubmed           :
