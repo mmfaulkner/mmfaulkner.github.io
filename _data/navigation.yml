@@ -1,8 +1,8 @@
 # main links links
 main:
-
-  - title: "Research"
-    url: /research/
-    
   - title: "CV"
     url: /files/CV_Faulkner_7Sept23.pdf
+  - title: "PV budget of Arctic freshwater"
+    url: /PV_fw/
+  - title: "Atlantic Water under the Beaufort Gyre"
+    url: /AW_BG/
