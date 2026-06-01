@@ -1,4 +1,9 @@
 /* Increase content width */
+.page {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
 .page__inner-wrap {
   max-width: 100% !important;
   width: 100%;
