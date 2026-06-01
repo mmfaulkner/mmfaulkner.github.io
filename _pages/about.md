@@ -17,8 +17,8 @@ Click the tabs above learn more about my current research.
 
   </div>
   <div style="flex: 0 0 40%;">
-    <img src="/images/Arctic_morelabels.png" alt="ArcticMap">
-    <figcaption>A map of major Arctic surface circulation features. Modified from USGS.</figcaption>
+    <img src="/images/icebergs_jokulsarlon.png" alt="Icebergs">
+    <figcaption>Icebergs in southern Iceland's Jökulsárón glacial lagoon.</figcaption>
   </div>
 </div>
 
